@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mcr-2026-v1';
+const CACHE_NAME = 'mcr-2026-v2';
 const ASSETS = ['./', './index.html', './light.html', './manifest.json'];
 
 self.addEventListener('install', event => {
