@@ -1,0 +1,8 @@
+{
+  "name": "MCR 2026 내한공연 가사집",
+  "short_name": "MCR 가사집",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
